@@ -279,7 +279,7 @@
 		</text>
 	</view>
 
-	<view name="basic">
+	<view name="basic, grid">
 		<image name="background" extra="true">
 			<tile>false</tile>
 			<path>./_art/gamelist-basic-bg.jpg</path>
@@ -305,7 +305,23 @@
 		</textlist>
 	</view>
 
-	<view name="basic, detailed, video">
+	<view name="grid">
+		<gridtile name="default">
+			<backgroundColor>181818</backgroundColor>
+		</gridtile>
+
+		<gridtile name="selected">
+			<backgroundColor>FFFFFFA0</backgroundColor>
+			<padding>4 4</padding>
+		</gridtile>
+		
+		<imagegrid name="gamegrid">
+			<autoLayout>2 2</autoLayout>
+			<imageSource>image</imageSource>
+		</imagegrid>
+	</view>
+
+	<view name="basic, detailed, video, grid">
 		<text name="top_label" extra="true">
 			<fontPath>./_art/Acre.otf</fontPath>
 			<text>Select Game</text>
