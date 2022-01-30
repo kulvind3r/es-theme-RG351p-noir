@@ -1,9 +1,11 @@
 # es-theme-RG351pElecNoir
 An emulation station theme for RG351p devices running [351Elec](https://351elec.de/) firmware
 
-This theme is a custom version of [es-theme-351elec-351noir](https://github.com/szalik-rg351/es-theme-351elec-351noir) which itself was derived from the original [es-theme-351noir](https://github.com/MonsieurDaz/es-theme-351noir) by [MonsieurDaz](https://github.com/MonsieurDaz)
+This theme is a custom version of [es-theme-351elec-351noir](https://github.com/szalik-rg351/es-theme-351elec-351noir) maintained by [szalik-rg351](https://github.com/szalik-rg351) which itself was derived from the original [es-theme-351noir](https://github.com/MonsieurDaz/es-theme-351noir) theme by [MonsieurDaz](https://github.com/MonsieurDaz)
 
-The repo doesn't fork the parent theme repo since i have already made contributions to the parent project separetely and now i am starting this version for something heavily targeted for my own personal use. The changes here won't be useful for wider audience and thus no contributions to upstream are planned from this version.
+The repo doesn't fork the parent theme repo since i have already made contributions to the parent project separetely and now i am starting this version for something heavily targeted for my own personal use. 
+
+The changes here won't be useful for wider audience and thus no contributions to upstream are planned from this version.
 
 All credits for the original theme and earlier ancestors of this version go to their respective author's and maintainers.
 
