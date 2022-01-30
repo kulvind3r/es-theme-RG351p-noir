@@ -27,19 +27,19 @@
 		<menuText name="menutitle">
 			<fontPath>./_art/Acre.otf</fontPath>
 			<fontSize>0.06</fontSize>
-			<color>FF0000</color>
+			<color>CA0C0C</color>
 		</menuText>
 		<menuText name="menutext">
 			<fontPath>./_art/BebasNeue.otf</fontPath>
 			<fontSize>0.05</fontSize>
 			<color>000000</color>
-			<selectorColor>FF0000</selectorColor>
+			<selectorColor>CA0C0C</selectorColor>
 			<separatorColor>272727</separatorColor>
 		</menuText>
 		<menuText name="menufooter">
 			<fontPath>./_art/Acre.otf</fontPath>
 			<fontSize>0.03</fontSize>
-			<color>FF0000</color>
+			<color>CA0C0C</color>
 		</menuText>
 	</view>
 
@@ -75,14 +75,14 @@
 			<fontPath>./_art/BebasNeue.otf</fontPath>
 			<alignment>left</alignment>
 			<forceUppercase>1</forceUppercase>
-			<color>FF0000</color>
+			<color>CA0C0C</color>
 		</text>
 		
 		<text name="sys_line2" extra="true">
 			<fontPath>./_art/BebasNeue.otf</fontPath>
 			<alignment>left</alignment>
 			<forceUppercase>1</forceUppercase>
-			<color>FF0000</color>
+			<color>CA0C0C</color>
 		</text>
 
 		<text name="shortdescription" extra="true">
@@ -101,7 +101,7 @@
 			<alignment>left</alignment>
 			<backgroundColor>00000000</backgroundColor>
 			<forceUppercase>1</forceUppercase>
-			<color>FF0000</color>
+			<color>CA0C0C</color>
 			<origin>0 0</origin>
 			<pos>0.25 0.602</pos>
 			<size>0.200 0.039</size>
@@ -155,11 +155,11 @@
 		</image>
 
 		<textlist name="gamelist">
-			<selectorColor>FF0000</selectorColor>
-			<selectedColor>F8F8F8</selectedColor>
+			<selectorColor>CA0C0C</selectorColor>
+			<selectedColor>EFECEC</selectedColor>
 			<selectorHeight>0.05</selectorHeight>
 			<primaryColor>585858</primaryColor>
-			<secondaryColor>888888</secondaryColor>
+			<secondaryColor>818181</secondaryColor>
 			<fontPath>./_art/Acre.otf</fontPath>
 			<alignment>left</alignment>
 			<pos>0 0.09</pos>
@@ -173,7 +173,7 @@
 			<fontPath>./_art/Acre.otf</fontPath>
 			<text>Select Game</text>
 			<alignment>left</alignment>
-			<color>000000</color>
+			<color>818181</color>
 			<fontSize>0.034</fontSize>
 			<origin>0 0</origin>
 			<pos>0.029 0</pos>
@@ -184,7 +184,7 @@
 			<fontPath>./_art/Acre.otf</fontPath>
 			<alignment>left</alignment>
 			<forceUppercase>1</forceUppercase>
-			<color>FF0000</color>
+			<color>CA0C0C</color>
 			<fontSize>0.036</fontSize>
 			<origin>0 0</origin>
 			<pos>0.429 0</pos>
@@ -214,7 +214,7 @@
 			<fontPath>./_art/Acre.otf</fontPath>
 			<alignment>left</alignment>
 			<fontSize>0.04</fontSize>
-			<color>FF0000</color>
+			<color>CA0C0C</color>
 			<origin>0 0</origin>
 			<pos>0.429 0.456</pos>
 			<size>0.5 0.5</size>
@@ -224,7 +224,7 @@
 			<alignment>left</alignment>
 			<fontPath>./_art/Acre.otf</fontPath>
 			<fontSize>0.03</fontSize>
-			<color>FF0000</color>
+			<color>CA0C0C</color>
 			<origin>0 0</origin>
 			<pos>0.429 0.820</pos>
 			<size>0.5 0.1111</size>
@@ -234,7 +234,7 @@
 			<alignment>right</alignment>
 			<fontPath>./_art/Acre.otf</fontPath>
 			<fontSize>0.03</fontSize>
-			<color>FF0000</color>
+			<color>818181</color>
 			<origin>0 0</origin>
 			<pos>0.415 0.820</pos>
 			<size>0.5 0.1111</size>
@@ -249,6 +249,8 @@
 		<helpsystem name="help">
 			<origin>0 1</origin>
 			<pos>0.01 1</pos>
+			<textColor>818181</textColor>
+			<textColor>818181</textColor>
 		</helpsystem>
 	</view>
 
