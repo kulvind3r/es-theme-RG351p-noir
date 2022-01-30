@@ -1,21 +1,5 @@
-<!--
-Theme name:  351 Noir
-by: 		 MonsieurDaz
-Based on:	 Epic Noir
-Artwork by:  Various 
-Coding by:   Nick L (c64-dev) & MonsieurDaz
-Fonts used:  Acre Medium & Bebas Neue Bold
-
-# Thanks and Credits
-Some controllers and graphics used in this theme are created by great artists who kindly agreed to include their art within the theme.
-
-# License
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please see README.md for full details.
--->
-
 <theme>
     <formatVersion>4</formatVersion>
     <include subset="colorset" name="Dark">./themedark.xml</include>
     <include subset="colorset" name="Light">./themelight.xml</include>
-
 </theme>
