@@ -1,5 +1,5 @@
 # es-theme-RG351pElecNoir
-An emulation station theme for RG351p devices running [351Elec](https://351elec.de/) firmware
+An Emulation Station theme for RG351p devices running [351Elec](https://351elec.de/) firmware
 
 This theme is a custom version of [es-theme-351elec-351noir](https://github.com/szalik-rg351/es-theme-351elec-351noir) maintained by [szalik-rg351](https://github.com/szalik-rg351) which itself was derived from the original [es-theme-351noir](https://github.com/MonsieurDaz/es-theme-351noir) theme by [MonsieurDaz](https://github.com/MonsieurDaz)
 
@@ -35,3 +35,35 @@ REQUIREMENTS:
 
 PROHIBITED:
 - Commercial distribution
+
+### Installation and Updating
+
+Download the .zip file from the [Releases section](https://github.com/kulvind3r/es-theme-RG351pElecNoir/releases) and extract it to themes folder of Emulation Station
+
+### Features
+
+* Clean interface with dark and light modes (UI Settings --> Theme configuration --> Theme colorset)
+* 480x320 (3:2) wallpapers for most common systems, the ones that I play, check the list of directories in code, only those are supported.
+* Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
+* Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
+* Support for screenshots/boxart and/or video.
+* Horizontal layout.
+* The battery indicator ranges from green to red, matching the state of your battery.
+
+
+### Screenshots
+
+![Sample01](https://github.com/kulvind3r/es-theme-RG351pElecNoir/blob/main/_art/samples/001.png) \
+![Sample02](https://github.com/kulvind3r/es-theme-RG351pElecNoir/blob/main/_art/samples/002.png) \
+![Sample03](https://github.com/kulvind3r/es-theme-RG351pElecNoir/blob/main/_art/samples/003.png) \
+![Sample04](https://github.com/kulvind3r/es-theme-RG351pElecNoir/blob/main/_art/samples/004.png) \
+![Sample05](https://github.com/kulvind3r/es-theme-RG351pElecNoir/blob/main/_art/samples/005.png) \
+![Sample06](https://github.com/kulvind3r/es-theme-RG351pElecNoir/blob/main/_art/samples/006.png) \
+![Sample07](https://github.com/kulvind3r/es-theme-RG351pElecNoir/blob/main/_art/samples/007.png) \
+![Sample08](https://github.com/kulvind3r/es-theme-RG351pElecNoir/blob/main/_art/samples/008.png) \
+![Sample09](https://github.com/kulvind3r/es-theme-RG351pElecNoir/blob/main/_art/samples/009.png) \
+![Sample10](https://github.com/kulvind3r/es-theme-RG351pElecNoir/blob/main/_art/samples/010.png) \
+![Sample11](https://github.com/kulvind3r/es-theme-RG351pElecNoir/blob/main/_art/samples/011.png) \
+![Sample12](https://github.com/kulvind3r/es-theme-RG351pElecNoir/blob/main/_art/samples/012.png)
+
+### Have Fun.
