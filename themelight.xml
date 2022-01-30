@@ -59,22 +59,6 @@
 			<pos>1 0</pos>
 			<size>0 1</size>
 		</image>
-		
-		<image name="indicator_bg" extra="false">
-			<tile>false</tile>
-			<path>./_art/indicators/left-ray.svg</path>
-			<size>0 1</size>
-			<pos>0 0</pos>
-		</image>
-	
-		<image name="indicator" extra="false">
-			<path>./_art/indicators/${system.theme}.png</path>
-			<tile>false</tile>
-			<color>F8F8F8</color>
-			<origin>0 0</origin>
-			<pos>-0.002 0.15</pos>
-			<size>0 0.70</size>
-		</image>
 
 		<carousel name="systemcarousel">
 			<type>horizontal</type>
