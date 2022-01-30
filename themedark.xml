@@ -201,8 +201,8 @@
 			<alignment>left</alignment>
 			<forceUppercase>0</forceUppercase>
 			<lineSpacing>1</lineSpacing>
-			<pos>0.429 0.740</pos>
-			<size>0.5 0.1111</size>
+			<pos>0.408 0.735</pos>
+			<size>0.510 0.1111</size>
 		</text>
 
 		<rating name="md_rating" extra="true">
@@ -219,29 +219,72 @@
 			<fontSize>0.04</fontSize>
 			<color>CA0C0C</color>
 			<origin>0 0</origin>
-			<pos>0.429 0.456</pos>
+			<pos>0.408 0.445</pos>
 			<size>0.5 0.5</size>
 		</text> 
-		
-		<text name="md_lbl_releasedate">
-			<alignment>left</alignment>
+
+		<text name="txt_release" extra="true">
+			<text>Released:</text>
 			<fontPath>./_art/Acre.otf</fontPath>
+			<alignment>left</alignment>
 			<fontSize>0.03</fontSize>
 			<color>CA0C0C</color>
 			<origin>0 0</origin>
-			<pos>0.429 0.820</pos>
+			<pos>0.350 0.825</pos>
 			<size>0.5 0.1111</size>
 		</text>
-		
+
 		<datetime name="md_releasedate">
+			<format>%m/%Y</format>
+			<fontPath>./_art/Acre.otf</fontPath>
+			<fontSize>0.03</fontSize>
+			<color>818181</color>
+			<origin>0 0</origin>
+			<pos>0.458 0.825</pos>
+			<size>0.5 0.1111</size>
+		</datetime>
+
+		<text name="txt_playcount" extra="true">
+			<text>Play Count:</text>
+			<fontPath>./_art/Acre.otf</fontPath>
+			<alignment>center</alignment>
+			<fontSize>0.03</fontSize>
+			<color>CA0C0C</color>
+			<origin>0 0</origin>
+			<pos>0.378 0.825</pos>
+			<size>0.5 0.1111</size>
+		</text>
+
+		<text name="md_playcount">
+			<alignment>center</alignment>
+			<fontPath>./_art/Acre.otf</fontPath>
+			<fontSize>0.03</fontSize>
+			<color>818181</color>
+			<origin>0 0</origin>
+			<pos>0.455 0.825</pos>
+			<size>0.5 0.1111</size>
+		</text>
+
+		<text name="txt_playtime" extra="true">
+			<text>Play Time:</text>
+			<fontPath>./_art/Acre.otf</fontPath>
+			<alignment>right</alignment>
+			<fontSize>0.03</fontSize>
+			<color>CA0C0C</color>
+			<origin>0 0</origin>
+			<pos>0.355 0.825</pos>
+			<size>0.5 0.1111</size>
+		</text>
+
+		<text name="md_gametime">
 			<alignment>right</alignment>
 			<fontPath>./_art/Acre.otf</fontPath>
 			<fontSize>0.03</fontSize>
 			<color>818181</color>
 			<origin>0 0</origin>
-			<pos>0.415 0.820</pos>
+			<pos>0.468 0.825</pos>
 			<size>0.5 0.1111</size>
-		</datetime>
+		</text>
 		
 		<text name="shortdescription, longdescription" extra="true">
 			<origin>1 1</origin>
