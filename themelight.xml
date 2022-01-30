@@ -10,6 +10,7 @@
 			<fontPath>./_art/Acre.otf</fontPath>
 			<color>FFFFFFA0</color>
 		</text>
+
 		<batteryIndicator name="batteryIndicator">
 			<pos>0.955 0.0125</pos>
 			<size>0.033 0.033</size>
@@ -21,6 +22,7 @@
 			<empty>./_art/battery/empty.svg</empty>
 			<color>FFFFFFA0</color>
 		</batteryIndicator>
+
 		<batteryIndicator name="batteryIndicator" tinyScreen="true">
 			<pos>0.910 0.005</pos>
 			<size>0.07 0.07</size>
@@ -32,11 +34,13 @@
 			<color>f4f4f499</color>
 			<cornerSize>32 32</cornerSize>
 		</menuBackground>
+
 		<menuText name="menutitle">
 			<fontPath>./_art/Acre.otf</fontPath>
 			<fontSize>0.06</fontSize>
 			<color>CA0C0C</color>
 		</menuText>
+
 		<menuText name="menutext">
 			<fontPath>./_art/BebasNeue.otf</fontPath>
 			<fontSize>0.05</fontSize>
@@ -44,6 +48,7 @@
 			<selectorColor>CA0C0C</selectorColor>
 			<separatorColor>272727</separatorColor>
 		</menuText>
+
 		<menuText name="menufooter">
 			<fontPath>./_art/Acre.otf</fontPath>
 			<fontSize>0.03</fontSize>
@@ -139,8 +144,8 @@
 		<helpsystem name="help">
 			<fontPath>./_art/Acre.otf</fontPath>
 			<fontSize>0.02</fontSize>
-			<origin>1 1</origin><!--0 0-->
-			<pos>0 0</pos> <!--0.0890 0.6283-->
+			<origin>1 1</origin>
+			<pos>0 0</pos>
 			<textColor>000000</textColor>
 			<iconColor>000000</iconColor>
 		</helpsystem>
@@ -267,12 +272,6 @@
 			<origin>0 0</origin>
 			<pos>0.468 0.825</pos>
 			<size>0.5 0.1111</size>
-		</text>
-		
-		<text name="shortdescription, longdescription" extra="true">
-			<origin>1 1</origin>
-			<pos>0 0</pos>
-			<color>00000000</color>
 		</text>
 	</view>
 
