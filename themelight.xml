@@ -2,6 +2,14 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="screen">
+		<text name="clock">
+			<origin>1 1</origin>
+			<pos>0.978 1</pos>
+			<size>0.20 0</size>
+			<fontSize>0.034</fontSize>
+			<fontPath>./_art/Acre.otf</fontPath>
+			<color>FFFFFFA0</color>
+		</text>
 		<batteryIndicator name="batteryIndicator">
 			<pos>0.955 0.0125</pos>
 			<size>0.033 0.033</size>
@@ -14,7 +22,7 @@
 			<color>FFFFFFA0</color>
 		</batteryIndicator>
 		<batteryIndicator name="batteryIndicator" tinyScreen="true">
-			<pos>0.915 0.013</pos>
+			<pos>0.910 0.005</pos>
 			<size>0.07 0.07</size>
 		</batteryIndicator>
 	</view>
@@ -149,7 +157,7 @@
 	<view name="basic, detailed, video">
 		<image name="background" extra="true">
 			<tile>false</tile>
-			<path>./_art/ingame-global-bgl.jpg</path>
+			<path>./_art/gamelist-detailed-bgl.jpg</path>
 			<size>1 1</size>
 			<pos>0 0</pos>
 		</image>
