@@ -3,21 +3,23 @@ An Emulation Station theme for RG351p devices running [351Elec](https://351elec.
 
 This theme is a custom version of [es-theme-351elec-351noir](https://github.com/szalik-rg351/es-theme-351elec-351noir) maintained by [szalik-rg351](https://github.com/szalik-rg351) which itself was derived from the original [es-theme-351noir](https://github.com/MonsieurDaz/es-theme-351noir) theme by [MonsieurDaz](https://github.com/MonsieurDaz)
 
-The repo doesn't fork the parent theme repo as this version is heavily targeted for my own personal use. 
+This repo doesn't fork the parent theme repo as this version is heavily targeted for my own personal use. 
 
 The changes here won't be useful for wider audience and thus no contributions to upstream are planned from this version.
 
 ## Parent 351 Noir Theme Credits
-Author:		 MonsieurDaz
-Maintainer:  szalik-rg351
-Based on:	 Epic Noir
-Artwork by:  Various 
-Coding by:   Nick L (c64-dev) & MonsieurDaz
-Fonts used:  Acre Medium & Bebas Neue Bold
+```
+Author: MonsieurDaz
+Maintainer: szalik-rg351
+Based on: Epic Noir
+Artwork by: Various 
+Coding by: Nick L (c64-dev) & MonsieurDaz
+Fonts used: Acre Medium & Bebas Neue Bold
+```
 
-# Artwork Credits
-1. Some controllers and graphics used in this theme are created by great artists who kindly agreed to include their art within the theme.
-2. Last Played Background Vector created by pikisuperstar at www.freepik.com
+## Artwork Credits
+- Some controllers and graphics used in this theme are created by great artists who kindly agreed to include their art within the theme.
+- Last Played Background Vector created by pikisuperstar at www.freepik.com
 
 ### License
 
@@ -42,13 +44,13 @@ Download the .zip file from the [Releases section](https://github.com/kulvind3r/
 
 ### Features
 
-* Clean interface with dark and light modes (UI Settings --> Theme configuration --> Theme colorset)
-* 480x320 (3:2) wallpapers for most common systems, the ones that I play, check the list of directories in code, only those are supported.
-* Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
-* Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
-* Support for screenshots/boxart and/or video.
-* Horizontal layout.
-* The battery indicator ranges from green to red, matching the state of your battery.
+- Clean interface with dark and light modes (UI Settings --> Theme configuration --> Theme colorset)
+- 480x320 (3:2) wallpapers for most common systems, the ones that I play, check the list of directories in code, only those are supported.
+- Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
+- Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
+- Support for screenshots/boxart and/or video.
+- Horizontal layout.
+- The battery indicator ranges from green to red, matching the state of your battery.
 
 
 ### Screenshots
